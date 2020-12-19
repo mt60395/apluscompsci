@@ -1,0 +1,4 @@
+`personality.txt` is the input file name.
+`personality (1).out`, the correct output, is the file you can compare `personality.out` to.
+
+The output doesn't get rid of extraneous space at the end of lines and doesn't add a new line at the end, but it should suffice nevertheless.
