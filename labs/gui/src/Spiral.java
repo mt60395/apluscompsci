@@ -20,17 +20,19 @@ public class Spiral extends JFrame {
         public void paintComponent(Graphics g) {
             super.paintComponent(g);
             g.setColor(Color.RED);
-            int y = 0; // decrement
+            int y = 10; // decrement
             int x = 10;
+            int w = getWidth();
+            int h = getHeight();
             for (int i = 0; i < 6; i++) {
-                g.drawLine(400 - x, 450 - y, 400 - x, y + 32);
+                g.drawLine(w - x, h - y, w - x, y + 32);
                 y += 32;
-                g.drawLine(400 - x, y, x, y);
-                g.drawLine(x, y, x, 450 - y);
-                g.drawLine(x, 450 - y, 400 - x - 32, 450 - y);
+                g.drawLine(w - x, y, x, y);
+                g.drawLine(x, y, x, h - y);
+                g.drawLine(x, h - y, w - x - 32, h - y);
                 x += 32;
             }
-            g.drawLine(400 - x, 450 - y, 400 - x, y + 32);
+            g.drawLine(w - x, h - y, w - x, y + 32);
         }
     }
 }
