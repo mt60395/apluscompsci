@@ -26,14 +26,8 @@ public class Drawing2 extends JFrame {
 
             for (int i = 0; i < w / 25; i++) {
                 g.drawLine(0, i * (h / 20), i * (w / 20), h);
-            }
-            for (int i = 0; i < w / 25; i++) {
                 g.drawLine(i * (w / 20), 0, w, i * (h / 20));
-            }
-            for (int i = 0; i < w / 25; i++) {
                 g.drawLine(w - i * (w / 20), 0, 0, i * (h / 20));
-            }
-            for (int i = 0; i < w / 25; i++) {
                 g.drawLine(i * (w / 20), h, w, h - i * (h / 20));
             }
         }
