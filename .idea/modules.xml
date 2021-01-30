@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/labs/11_nested_loops/11_nested_loops.iml" filepath="$PROJECT_DIR$/labs/11_nested_loops/11_nested_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/14_arrays/14_arrays.iml" filepath="$PROJECT_DIR$/labs/14_arrays/14_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/15_sort_search/15_sort_search.iml" filepath="$PROJECT_DIR$/labs/15_sort_search/15_sort_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/16_ArrayList/16_ArrayList.iml" filepath="$PROJECT_DIR$/labs/16_ArrayList/16_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/22_Matrices_2D_Arrays/22_Matrices_2D_Arrays.iml" filepath="$PROJECT_DIR$/labs/22_Matrices_2D_Arrays/22_Matrices_2D_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/23_recursion/23_recursion.iml" filepath="$PROJECT_DIR$/labs/23_recursion/23_recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/GuessTheColor/GuessTheColor.iml" filepath="$PROJECT_DIR$/projects/GuessTheColor/GuessTheColor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/ImageShopAssignment/ImageShopAssignment.iml" filepath="$PROJECT_DIR$/projects/ImageShopAssignment/ImageShopAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/Personality/Personality.iml" filepath="$PROJECT_DIR$/projects/Personality/Personality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apluscompsci.iml" filepath="$PROJECT_DIR$/.idea/apluscompsci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/gui/gui.iml" filepath="$PROJECT_DIR$/labs/gui/gui.iml" />
+    </modules>
+  </component>
+</project>
