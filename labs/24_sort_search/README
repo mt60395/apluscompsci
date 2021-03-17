@@ -1,0 +1,3 @@
+CreditCards.java has a round-off error in some of the test cases that are off by one cent.
+
+Note that for Sorts.java, I wrote my own insertion and selection sort. Pasted code is likely more correct than the code I wrote.
