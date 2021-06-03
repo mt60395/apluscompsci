@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlayersOb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/PlayersOb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
