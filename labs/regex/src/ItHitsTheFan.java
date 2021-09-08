@@ -13,7 +13,7 @@ public class ItHitsTheFan
 	// use the Pattern and Matcher classes
 	public void countLine(String s)
 	{
-		Pattern p = Pattern.compile(" [iI]t ");
+		Pattern p = Pattern.compile(" it ");
 		Matcher m = p.matcher(s);
 		while (m.find()) {
 			count++;

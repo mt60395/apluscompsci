@@ -83,7 +83,7 @@ public class Document
 	{
 	    //TODO: Implement this method.
 		int numSentences = 0;
-		Pattern p = Pattern.compile("(\\D[.])?[.!\\?]+"); //todo
+		Pattern p = Pattern.compile("(\\D[.])?[.!?]+"); //todo
 		Matcher matcher = p.matcher(text);
 		while (matcher.find()) {
 			numSentences++;
