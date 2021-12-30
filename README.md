@@ -1,5 +1,6 @@
 Solutions for [apluscompsci](https://www.apluscompsci.com/) and some other school assignments.
 
-All of the code in this repository is licensed under the [WTFPL](http://www.wtfpl.net/) except for:
-- the file `projects/ImageShopAssignment/src/ImageRunner.java`. That is licensed under [CC BY 2.5](https://creativecommons.org/licenses/by/2.5/); please check the file's header for its specific copying conditions (https://github.com/mt60395/apluscompsci/blob/master/projects/ImageShopAssignment/src/ImageRunner.java).
-- the files `BarChart.java` and `StdDraw.java` under `projects/BarChartRacer/src`. StdDraw is licensed under the GPLv3.
+- All code is licensed under the WTFPL unless if stated otherwise in the file.
+- I chose not to include other libraries or code not written by me as files.
+- "Labs" were optional/daily grades and "projects" were assessment or major grades.
+- A comment in the first line of the file will indicate if the code did not receive a perfect score.

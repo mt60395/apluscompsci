@@ -1,0 +1,27 @@
+Welcome to the cse anagram solver.
+
+What is the name of the dictionary file? dict4.txt
+
+phrase to scramble (return to quit)? hugo chavez
+Max words to include (0 for no max)? 0
+huh zag cove
+huh cove zag
+zag huh cove
+zag cove huh
+cove huh zag
+cove zag huh
+
+phrase to scramble (return to quit)? howard dean
+Max words to include (0 for no max)? 2
+don warhead
+nod warhead
+head onward
+wade hadron
+ahead drown
+drown ahead
+hadron wade
+onward head
+warhead don
+warhead nod
+
+phrase to scramble (return to quit)? 

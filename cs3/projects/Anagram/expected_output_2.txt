@@ -1,0 +1,251 @@
+Welcome to the CSE anagram solver.
+Using dictionary file dict2.txt.
+
+Phrase to scramble (Enter to quit)? marty stepp
+All words found in "marty stepp":
+a am are arm army art as at ate east easy eat eats empty map master matter matters may me met my paper papers part parts party past pay pays per pretty rate rates re rest same sat say set spare start state stay step stream tape tapes taste tea team term terms test trap traps treat treats try type types year years yes yet
+
+Max words to include (Enter for no max)? 
+empty parts
+empty traps
+map step try
+map try step
+my part step
+my step part
+my step trap
+my trap step
+part my step
+part step my
+parts empty
+step map try
+step my part
+step my trap
+step part my
+step trap my
+step try map
+trap my step
+trap step my
+traps empty
+try map step
+try step map
+
+
+Phrase to scramble (Enter to quit)? stuart reges
+All words found in "stuart reges":
+a age ages agree agrees are argue argues art as assure at ate ease east eat eats eraser err gas get gets great greater greatest guess rare rate rates re regret rest restart sat see sees set sets stage stages start starts state states status street sugar sure target taste tea test tests treat treats tree trees true trust trusts us usage use user users uses
+
+Max words to include (Enter for no max)? 2
+agree trusts
+agrees trust
+street sugar
+sugar street
+target users
+trust agrees
+trusts agree
+users target
+
+
+Phrase to scramble (Enter to quit)? helene martin
+All words found in "helene martin":
+a aim air alter am an are arm art at ate earth eat eaten either element enter entire hair harm hat hate he hear heart heat her here him hint hit in inner internal it item lain late later learn let lie line linear mail main man manner me mean meant meet men mere merit met metal mile mine name near neither net nine rain ran rate re real relate remain retain tea team ten term terminal than the their them then there thin three tie time tin train tree trial
+
+Max words to include (Enter for no max)? 3
+earth line men
+earth men line
+he inner metal
+he internal me
+he me internal
+he metal inner
+heart line men
+heart men line
+her line meant
+her meant line
+her metal nine
+her nine metal
+inner he metal
+inner metal he
+internal he me
+internal me he
+lain men there
+lain men three
+lain mere then
+lain then mere
+lain there men
+lain three men
+learn mine the
+learn the mine
+lie manner the
+lie the manner
+line earth men
+line heart men
+line her meant
+line man there
+line man three
+line meant her
+line men earth
+line men heart
+line mere than
+line near them
+line than mere
+line them near
+line there man
+line three man
+linear me then
+linear men the
+linear the men
+linear then me
+man line there
+man line three
+man there line
+man three line
+manner lie the
+manner the lie
+me he internal
+me internal he
+me linear then
+me then linear
+meant her line
+meant line her
+men earth line
+men heart line
+men lain there
+men lain three
+men line earth
+men line heart
+men linear the
+men the linear
+men there lain
+men three lain
+mere lain then
+mere line than
+mere than line
+mere then lain
+metal he inner
+metal her nine
+metal inner he
+metal nine her
+mile near then
+mile then near
+mine learn the
+mine real then
+mine the learn
+mine then real
+near line them
+near mile then
+near them line
+near then mile
+nine her metal
+nine metal her
+nine real them
+nine them real
+real mine then
+real nine them
+real them nine
+real then mine
+than line mere
+than mere line
+the learn mine
+the lie manner
+the linear men
+the manner lie
+the men linear
+the mine learn
+them line near
+them near line
+them nine real
+them real nine
+then lain mere
+then linear me
+then me linear
+then mere lain
+then mile near
+then mine real
+then near mile
+then real mine
+there lain men
+there line man
+there man line
+there men lain
+three lain men
+three line man
+three man line
+three men lain
+
+
+Phrase to scramble (Enter to quit)? benson limketkai
+All words found in "benson limketkai":
+a able aim aims almost alone also am an as ask at ate ban bank base be been best bet bets bit bite bites bits blame blank boat ease east eat eaten eats else enable enables in into is isolate it item items its keen lain last late least let lets lie lies like likes limit limits line lines link links list listen loan lose lost lot lots mail main make makes man me mean means meant meet meets men mention mentions met metal mile miles mine mistake mistaken most name names nation net nine no noise none not note notes obtain obtains oil omit omits on one ones saint sake sale same sat see seek seem seen sent set sit site smile so some son stable steal stone table tables take taken takes talk talks tank tanks task tea team ten tie ties time times tin to token
+
+Max words to include (Enter for no max)? 3
+
+
+Phrase to scramble (Enter to quit)? hal perkins
+All words found in "hal perkins":
+a air an are arise as ask hair has he hear hears help helps her his in is lain learn learns lie lies like likes line linear lines link links near pain pair pairs park peak pen per phase phrase pi pile plain plan plane plans plea rain raise ran re real rise risk sake sale serial shape share sharp she ship slip spare speak
+
+Max words to include (Enter for no max)? 
+an help risk
+an risk help
+has link per
+has per link
+he plan risk
+he risk plan
+help an risk
+help risk an
+link has per
+link per has
+link phrase
+per has link
+per link has
+phrase link
+plan he risk
+plan risk he
+risk an help
+risk he plan
+risk help an
+risk plan he
+
+
+Phrase to scramble (Enter to quit)? a a a a a a a
+All words found in "a a a a a a a":
+a
+
+Max words to include (Enter for no max)? 
+a a a a a a a
+
+
+Phrase to scramble (Enter to quit)? a an a an a an
+All words found in "a an a an a an":
+a an
+
+Max words to include (Enter for no max)? 
+a a a an an an
+a a an a an an
+a a an an a an
+a a an an an a
+a an a a an an
+a an a an a an
+a an a an an a
+a an an a a an
+a an an a an a
+a an an an a a
+an a a a an an
+an a a an a an
+an a a an an a
+an a an a a an
+an a an a an a
+an a an an a a
+an an a a a an
+an an a a an a
+an an a an a a
+an an an a a a
+
+
+Phrase to scramble (Enter to quit)? a b cde f g
+All words found in "a b cde f g":
+a age bad be bed face fed
+
+Max words to include (Enter for no max)? 
+
+
+Phrase to scramble (Enter to quit)? 

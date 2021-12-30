@@ -1,0 +1,101 @@
+Welcome to the CSE anagram solver.
+Using dictionary file dict3.txt.
+
+Phrase to scramble (Enter to quit)? barbara bush
+All words found in "barbara bush":
+abash abbas ash aura bah bar barb bash brash brush bub bus bush hub rasa rash rhubarb rub rush sabra shrub sub
+
+Max words to include (Enter for no max)? 
+abash bar rub
+abash rub bar
+bah rub sabra
+bah sabra rub
+bar abash rub
+bar hub sabra
+bar rub abash
+bar sabra hub
+barb hub rasa
+barb rasa hub
+hub bar sabra
+hub barb rasa
+hub rasa barb
+hub sabra bar
+rasa barb hub
+rasa hub barb
+rub abash bar
+rub bah sabra
+rub bar abash
+rub sabra bah
+sabra bah rub
+sabra bar hub
+sabra hub bar
+sabra rub bah
+
+
+Phrase to scramble (Enter to quit)? barbara m bush
+All words found in "barbara m bush":
+abash abbas ambush amra arm arum ash aura bah bam bar barb bash brash brush bub bum bus bush ham harm hub hum mar marsh mash mush ram rasa rash rhubarb rub rum rush sabra samba sham shrub sub sum umbra
+
+Max words to include (Enter for no max)? 3
+abash barb rum
+abash rum barb
+abbas harm rub
+abbas rub harm
+ambush bar bar
+amra barb bush
+amra brash bub
+amra bub brash
+amra bush barb
+arum barb bash
+arum bash barb
+ash barb umbra
+ash umbra barb
+bar ambush bar
+bar bar ambush
+bar bash umbra
+bar umbra bash
+barb abash rum
+barb amra bush
+barb arum bash
+barb ash umbra
+barb bash arum
+barb bush amra
+barb hum sabra
+barb rum abash
+barb sabra hum
+barb umbra ash
+bash arum barb
+bash bar umbra
+bash barb arum
+bash umbra bar
+brash amra bub
+brash bub amra
+bub amra brash
+bub brash amra
+bub harm sabra
+bub sabra harm
+bush amra barb
+bush barb amra
+harm abbas rub
+harm bub sabra
+harm rub abbas
+harm sabra bub
+hum barb sabra
+hum sabra barb
+rhubarb samba
+rub abbas harm
+rub harm abbas
+rum abash barb
+rum barb abash
+sabra barb hum
+sabra bub harm
+sabra harm bub
+sabra hum barb
+samba rhubarb
+umbra ash barb
+umbra bar bash
+umbra barb ash
+umbra bash bar
+
+
+Phrase to scramble (Enter to quit)? 
